@@ -1,0 +1,3 @@
+Decision Tree: Disease (Confidence: 100.00%)
+KNN: No Disease (Confidence: 20.00%)
+SVM: Disease (Confidence: 51.27%)
